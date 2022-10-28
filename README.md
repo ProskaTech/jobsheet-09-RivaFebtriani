@@ -1,5 +1,2 @@
-## Object-oriented Programming (Lab Work) Template Guides
-1. Silakan anda upload file java hasil praktikum anda menggunakan NetBeans atau IDE/text editor lainnya dengan mengupload button ADD FILE
-2. Upload juga screenshot hasil latihan dan tugas anda dalam format .JPG atau .JPEG atau .PNG
-3. Setiap file java anda diharuskan untuk memiliki identitas anda dengan menggunakan komentar dengan format berikut "Created by NIM_Nama Lengkap" pada bagian paling atas setiap code anda. contoh: // Created by 1203232_Randi Proska Sandra
-4. Silakan anda edit file README.md ini dengan identitas anda juga serta berikan penjelasan terkait source code yang anda upload. Catatan: Jangan ubah nama file README.md
+21343070_Riva Febtriani
+Di jobsheet 9 ini saya mampu menjelaskan OOP dan beberapa konsepnya dan dapat menjelaskan perbedaan antara class dan object. dan selanjutnya akan membahas tentang konsep dari class dan bagaimana menggunakan class da anggotanya. dan disini saya menggunakan class yang telah dijabarkan dalam Java Class library.
